@@ -1,5 +1,5 @@
 - Template Repository 
-Free multi-platform database tool for developers, SQL programmers, database administrators and analysts.
+- Free multi-platform database tool for developers, SQL programmers, database administrators and analysts.
 Supports any database which has JDBC driver (which basically means - ANY database). Commercial versions also support non-JDBC datasources such as MongoDB, Cassandra, Couchbase, Redis, BigTable, ScyllaDB, DynamoDB, etc. You can find the list of all databases supported in commercial versions here.
 
 Has a lot of features including metadata editor, SQL editor, rich data editor, ERD, data export/import/migration, SQL execution plans, etc.
